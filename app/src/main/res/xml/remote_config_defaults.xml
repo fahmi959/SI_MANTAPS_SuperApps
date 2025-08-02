@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaults>
+    <entry>
+        <key>latest_app_version_code</key>
+        <value>1</value> </entry>
+    <entry>
+        <key>apk_download_url</key>
+        <value></value> </entry>
+    <entry>
+        <key>update_dialog_title</key>
+        <value>Pembaruan Aplikasi Tersedia</value>
+    </entry>
+    <entry>
+        <key>update_dialog_message</key>
+        <value>Versi baru aplikasi tersedia. Silakan unduh dan instal untuk melanjutkan.</value>
+    </entry>
+
+    <entry>
+        <key>menu_config_json</key>
+        <value>{
+            "dashboard_visible": true,
+            "presensi_visible": true,
+            "profile_visible": true,
+            "broadcast_visible": false,
+            "new_feature_x_visible": false
+            }</value>
+    </entry>
+</defaults>

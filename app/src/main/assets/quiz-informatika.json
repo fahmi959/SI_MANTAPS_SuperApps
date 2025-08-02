@@ -1,0 +1,108 @@
+{
+  "title": "E-Ujian Informatika Kelas X",
+  "description": "Tes pemahaman materi Informatika kelas X.",
+  "questions": [
+    {
+      "question": "Apa kepanjangan dari HTML?",
+      "options": ["HyperText Markup Language", "Hyper Transfer Mode Language", "HighText Machine Language", "Home Tool Markup Language"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Apa fungsi utama CPU dalam komputer?",
+      "options": ["Penyimpanan data", "Mengirim email", "Memproses data", "Menampilkan grafik"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Apa nama perangkat lunak untuk mengakses web?",
+      "options": ["Photoshop", "Browser", "Excel", "PowerPoint"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Manakah yang termasuk sistem operasi?",
+      "options": ["Chrome", "Windows", "Photoshop", "Google"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Contoh perangkat input adalah?",
+      "options": ["Monitor", "Printer", "Mouse", "Speaker"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Bahasa pemrograman untuk membuat aplikasi Android adalah?",
+      "options": ["Kotlin", "HTML", "Python", "SQL"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Apa itu perangkat keras (hardware)?",
+      "options": ["Program komputer", "Data pengguna", "Bagian fisik komputer", "Aplikasi"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Manakah format file gambar?",
+      "options": [".docx", ".jpg", ".mp3", ".exe"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Fungsi dari RAM adalah?",
+      "options": ["Menyimpan data secara permanen", "Mengolah gambar", "Penyimpanan sementara", "Menampilkan layar"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Apa itu URL?",
+      "options": ["Uniform Resource Locator", "Universal Remote Link", "User Rated Link", "Unlimited Resource Locator"],
+      "answerIndex": 0
+    },
+
+    {
+      "question": "Contoh perangkat lunak sistem adalah?",
+      "options": ["Microsoft Word", "Adobe Photoshop", "Windows 11", "Google Chrome"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Apa kepanjangan dari LAN?",
+      "options": ["Large Area Network", "Local Access Node", "Local Area Network", "Linked Area Network"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Berikut yang termasuk perangkat output adalah?",
+      "options": ["Keyboard", "Speaker", "Mouse", "Scanner"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Manakah yang merupakan contoh etika digital?",
+      "options": ["Menyebarkan hoax", "Menghargai privasi orang lain", "Mengakses situs ilegal", "Menyebarkan data pribadi"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Apa fungsi sistem operasi pada komputer?",
+      "options": ["Menjalankan perangkat keras", "Mengedit dokumen", "Mengakses internet", "Menampilkan video"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Jenis data dalam komputer yang bersifat sementara disebut?",
+      "options": ["SSD", "ROM", "RAM", "Harddisk"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Manakah di bawah ini contoh aplikasi pengolah kata?",
+      "options": ["Excel", "Word", "Photoshop", "Chrome"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Apa manfaat memahami keamanan siber bagi siswa?",
+      "options": ["Menghindari olahraga", "Menghindari konten hiburan", "Menghindari pelanggaran digital", "Menghindari internet"],
+      "answerIndex": 2
+    },
+    {
+      "question": "Bahasa pemrograman visual yang cocok untuk pemula adalah?",
+      "options": ["Scratch", "C++", "Java", "PHP"],
+      "answerIndex": 0
+    },
+
+    {
+      "question": "Apa yang dimaksud dengan algoritma dalam informatika?",
+      "options": ["Bahasa pemrograman", "Langkah-langkah menyelesaikan masalah", "Jenis jaringan komputer", "Nama aplikasi"],
+      "answerIndex": 1
+    }
+  ]
+}

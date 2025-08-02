@@ -1,0 +1,45 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema utama terang -->
+    <style name="Theme.PresensiSiswaInformatikaByFahmi" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        <!-- Warna utama terang -->
+        <item name="colorPrimary">#4F46E5</item> <!-- Indigo 600 -->
+        <item name="colorPrimaryVariant">#4338CA</item> <!-- Indigo 700 -->
+        <item name="colorOnPrimary">#FFFFFF</item> <!-- teks di atas warna utama -->
+
+        <!-- Warna sekunder terang -->
+        <item name="colorSecondary">#14B8A6</item> <!-- Teal 500 -->
+        <item name="colorSecondaryVariant">#0D9488</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <!-- Warna latar -->
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnSurface">#1E293B</item> <!-- abu gelap untuk teks -->
+
+        <!-- Status bar -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <!-- Splash screen -->
+    <style name="Theme.SplashScreen.NoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/splash_background_color</item>
+    </style>
+
+
+
+    <style name="AppFullScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="cal_button">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:elevation">8dp</item>
+        <item name="android:background">@drawable/bg_round_gray</item>
+    </style>
+
+
+</resources>

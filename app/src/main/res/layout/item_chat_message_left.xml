@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:orientation="horizontal"
+    android:gravity="start">
+
+    <ImageView
+        android:id="@+id/senderPhoto"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:scaleType="centerCrop"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/circle_shadow_bg"
+        android:src="@drawable/ic_default_profile"
+        android:elevation="4dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/chat_bubble_left"
+        android:padding="12dp"
+        android:elevation="2dp">
+
+        <TextView
+            android:id="@+id/senderName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fahmi Rok"
+            android:textStyle="bold"
+            android:textColor="#222"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/messageText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Assalamualaikum!"
+            android:textColor="#333"
+            android:textSize="15sp"
+            android:lineSpacingExtra="4dp" />
+
+        <TextView
+            android:id="@+id/timeText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10:15"
+            android:textSize="11sp"
+            android:textColor="#999"
+            android:layout_marginTop="6dp"
+            android:gravity="end"/>
+    </LinearLayout>
+</LinearLayout>

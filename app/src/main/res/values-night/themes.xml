@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.PresensiSiswaInformatikaByFahmi" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        <!-- Warna utama gelap -->
+        <item name="colorPrimary">#ffffff</item> <!-- Dark Blue -->
+        <item name="colorPrimaryVariant">#1E40AF</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Warna sekunder gelap -->
+        <item name="colorSecondary">#0D9488</item> <!-- Teal -->
+        <item name="colorSecondaryVariant">#14B8A6</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <!-- Warna latar gelap -->
+        <item name="android:windowBackground">#ffffff</item> <!-- Navy -->
+        <item name="colorSurface">#ffffff</item> <!-- dark grey-blue -->
+        <item name="colorOnSurface">#F1F5F9</item> <!-- terang untuk teks -->
+
+        <!-- Status bar -->
+        <item name="android:statusBarColor">#1E3A8A</item>
+    </style>
+
+    <style name="Theme.SplashScreen.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/splash_background_color</item>
+    </style>
+</resources>

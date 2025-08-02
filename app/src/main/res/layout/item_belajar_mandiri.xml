@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="6dp"
+    android:foreground="?attr/selectableItemBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/babKelas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kelas 10"
+            android:textStyle="bold"
+            android:textColor="#2980B9"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:id="@+id/babTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bab 1 – Informatika dan Keterampilan Generik"
+            android:textColor="#2C3E50"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_marginTop="4dp"/>
+
+        <TextView
+            android:id="@+id/babDesc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pengenalan konsep informatika dan keterampilan generik."
+            android:textSize="14sp"
+            android:textColor="#7F8C8D"
+            android:layout_marginTop="4dp"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="8dp"
+            android:gravity="center_vertical">
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:src="@drawable/youtube"
+                android:contentDescription="YouTube Icon"
+               />
+
+            <TextView
+                android:id="@+id/babLink"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lihat Video"
+                android:textColor="#E74C3C"
+                android:textStyle="bold"
+                android:layout_marginStart="6dp"/>
+        </LinearLayout>
+        <TextView
+            android:id="@+id/statusText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Coming Soon"
+            android:textStyle="italic"
+            android:textColor="#E67E22"
+            android:layout_marginTop="8dp"
+            android:visibility="gone"
+            tools:visibility="visible" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,121 @@
+{
+  "kelas10": [
+    {
+      "bab": "Bab 1 – Informatika & Keterampilan Generik",
+      "penjelasan": "Pengenalan konsep informatika dan keterampilan generik yang penting.",
+      "link": "https://www.youtube.com/watch?v=KSwlcE7adx4"
+
+
+    },
+    {
+      "bab": "Bab 2 – Berpikir Komputasional",
+      "penjelasan": "Dasar berpikir algoritmik dan pemecahan masalah komputasional.",
+      "link": "https://youtu.be/DyxnKL7qhMs?si=iF90SyXbUAXYIbMY"
+
+    },
+    {
+      "bab": "Bab 3 – Teknologi Informasi & Komunikasi",
+      "penjelasan": "Pengenalan teknologi, internet, media digital.",
+      "link": "https://www.youtube.com/playlist?list=PLFddCsUILQ-pdkVXx0QBV5TqdGTE6G5K5"
+    },
+    {
+      "bab": "Bab 4 – Sistem Komputer",
+      "penjelasan": "Komponen komputer, software dan hardware.",
+      "link": "https://www.youtube.com/playlist?list=PL3zx-Ual2NPt1ptRMJQNSyAP_3tEXJ7Bn"
+    },
+    {
+      "bab": "Bab 5 – Jaringan Komputer & Internet",
+      "penjelasan": "Dasar jaringan lokal dan internet.",
+      "link": "https://www.youtube.com/playlist?list=PL3zx-Ual2NPt1ptRMJQNSyAP_3tEXJ7Bn"
+    },
+    {
+      "bab": "Bab 6 – Analisis Data",
+      "penjelasan": "Pengolahan dan pemodelan data.",
+      "link": "https://youtu.be/aFV5iO-XkdI?si=TAjQzyRmxbnzqy_J"
+    },
+    {
+      "bab": "Bab 7 – Algoritma & Pemrograman",
+      "penjelasan": "Pengenalan algoritma dan pemrograman dasar.",
+      "link": "https://www.youtube.com/watch?v=BMHayvVbP1k"
+    },
+    {
+      "bab": "Bab 8 – Dampak Sosial Informatika",
+      "penjelasan": "Etika, privasi, dan dampak teknologi informasi.",
+      "link": "https://www.youtube.com/playlist?list=PL3zx-Ual2NPt1ptRMJQNSyAP_3tEXJ7Bn"
+    },
+    {
+      "bab": "Bab 9 – Praktika Lintas Bidang Informatika",
+      "penjelasan": "Proyek integratif penerapan informatika.",
+      "link": "https://www.youtube.com/playlist?list=PL3zx-Ual2NPt1ptRMJQNSyAP_3tEXJ7Bn"
+    }
+  ],
+  "kelas11": [
+    {
+      "bab": "Bab 1 – Tentang Informatika Kelas XI",
+      "penjelasan": "Pengenalan materi Informatika Kelas XI.",
+      "link": "https://youtu.be/lCqUDgWpZxI?si=BqaNSTP8vlg68x-m"
+    },
+    {
+      "bab": "Bab 2 – Strategi Algoritmik & Larik Karakter",
+      "penjelasan": "Pengolahan data string dan algoritma berbasis larik.",
+      "link": "https://www.youtube.com/watch?v=LqDsrMAm3ns"
+    },
+    {
+      "bab": "Bab 3 – Berpikir Kritis & Pemecahan Masalah",
+      "penjelasan": "Teknik berpikir kritis dan pemecahan masalah.",
+      "link": "https://youtu.be/HjbN4HSms4U?si=p8gb7yBQQmYhs3qU"
+    },
+    {
+      "bab": "Bab 4 – Jaringan Komputer dan Internet",
+      "penjelasan": "Studi mendalam tentang jaringan komputer dan komunikasi data.",
+      "link": "https://youtu.be/gDALEHViVdE?si=XZ65OiONlATqEXi8"
+    },
+    {
+      "bab": "Bab 5 – Representasi Data dan Media Digital",
+      "penjelasan": "Cara data dan media disimpan dalam bentuk digital.",
+      "link": null
+    },
+    {
+      "bab": "Bab 6 – Dampak Sosial Informatika",
+      "penjelasan": "Etika, keamanan data, dan privasi informasi.",
+      "link": null
+    },
+    {
+      "bab": "Bab 7 – Praktik Proyek Informatika",
+      "penjelasan": "Kegiatan proyek lintas bidang menggunakan prinsip informatika.",
+      "link": null
+    }
+  ],
+  "kelas12": [
+    {
+      "bab": "Bab 1 – Pengantar Informatika Kelas XII",
+      "penjelasan": "Pengenalan Informatika untuk fase akhir SMA.",
+      "link": "https://www.youtube.com/watch?v=cngqW8wy2ws"
+    },
+    {
+      "bab": "Bab 2 – Basis Data dan SQL",
+      "penjelasan": "Pengenalan database dan bahasa query SQL.",
+      "link": null
+    },
+    {
+      "bab": "Bab 3 – Kecerdasan Buatan (AI)",
+      "penjelasan": "Konsep dasar AI dan penerapannya.",
+      "link": null
+    },
+    {
+      "bab": "Bab 4 – Keamanan Siber",
+      "penjelasan": "Cara melindungi sistem informasi dan data dari ancaman.",
+      "link": null
+    },
+    {
+      "bab": "Bab 5 – Etika Digital dan Hukum Siber",
+      "penjelasan": "Etika, regulasi, dan hukum yang mengatur aktivitas digital.",
+      "link": null
+    },
+    {
+      "bab": "Bab 6 – Praktik Proyek Informatika Tingkat Lanjut",
+      "penjelasan": "Proyek akhir integratif lintas bidang.",
+      "link": null
+    }
+  ]
+}
