@@ -112,7 +112,8 @@ class MainActivity : AppCompatActivity() {
         }
 
         binding.imgBtnForumChat.setOnClickListener {
-            startActivity(Intent(this, ChatActivity::class.java))
+            val intent = Intent(this, ChatActivity::class.java)
+            startActivity(intent)
         }
 
         binding.imgBtnNewFeatureX.setOnClickListener {
