@@ -32,7 +32,7 @@ class MyApplication : Application() {
 
     // Pastikan ini cocok dengan 'versionCode' di build.gradle (Module: app) Anda.
     companion object {
-        const val APP_CURRENT_VERSION_CODE = 5 // <-- Sesuaikan dengan versionCode aplikasi Anda saat ini
+        const val APP_CURRENT_VERSION_CODE = 6 // <-- Sesuaikan dengan versionCode aplikasi Anda saat ini
         const val PREF_LAST_ACTIVE_TIME_KEY = "last_active_time"
     }
 

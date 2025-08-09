@@ -11,6 +11,8 @@
     android:fitsSystemWindows="true"
     tools:context=".MainActivity">
 
+
+
     <TextView
         android:id="@+id/tvWelcome"
         android:layout_width="wrap_content"
@@ -21,6 +23,11 @@
         android:textColor="#1A237E"
         android:layout_marginTop="24dp"
         android:layout_marginBottom="32dp"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true">
 
     <GridLayout
         android:layout_width="match_parent"
@@ -497,6 +504,8 @@
         </com.google.android.material.card.MaterialCardView>
 
     </GridLayout>
+    </ScrollView>
+
 
     <Button
         android:id="@+id/btnLogout"

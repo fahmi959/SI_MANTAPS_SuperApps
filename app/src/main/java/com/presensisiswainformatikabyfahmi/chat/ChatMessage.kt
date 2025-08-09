@@ -1,10 +1,11 @@
 package com.presensisiswainformatikabyfahmi.chat
 
 
+import com.google.firebase.Timestamp
+
 data class ChatMessage(
-    val senderUid: String = "",
+    val senderId: String = "",
     val senderName: String = "",
     val message: String = "",
-    val timestamp: Long = 0L,
-    val senderProfileUrl: String? = null
+    val timestamp: Timestamp = Timestamp.now()
 )
